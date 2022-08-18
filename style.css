@@ -1,0 +1,33 @@
+.title {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: maroon;
+  text-shadow: -1px 0 gold, 0 1px gold, 1px 0 gold, 0 -1px gold;
+  text-align: center;
+  font-size: 30px;
+}
+
+.intro {
+  font-size: 40px;
+  color: gold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: -1px 0 maroon, 0 1px maroon, 1px 0 maroon, 0 -1px maroon;
+}
+
+.smallerintro {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  color: gold;
+}
+
+.client {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: gold;
+}
+
+.content {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: gold;
+}
